@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shafi-taqi
-- 👀 I’m interested in becoming a Project Manager 
-- 🌱 I’m currently learning how to efficiently analyze data
+- 👀 I’m a data enthusiast
+- 🌱 I’m currently honing my skills in complex Data Analysis and Visualization
 - 💞️ I’m looking to collaborate on any beginner to mid level projects
 - 📫 How to reach me ... 
 https://www.linkedin.com/in/shafi-taqi/
