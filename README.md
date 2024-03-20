@@ -5,7 +5,7 @@
 - 📫 How to reach me ... 
 https://www.linkedin.com/in/shafi-taqi/
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I like making beats
+
 
 <!---
 shafi-taqi/shafi-taqi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
